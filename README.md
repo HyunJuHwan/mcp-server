@@ -1,9 +1,19 @@
 # scenario-word
+[![smithery badge](https://storage.googleapis.com/smithery/badges/cl9kd1l51000109mzf4nss6st.svg)](https://smithery.ai/server/cl9kd1l51000109mzf4nss6st)
 
 A Model Context Protocol (MCP) server built with mcp-framework.
 
 ## Quick Start
 
+### Installing via Smithery
+
+To install scenario-word for Claude Desktop automatically via [Smithery](https://smithery.ai/server/cl9kd1l51000109mzf4nss6st):
+
+```bash
+npx -y @smithery/cli install cl9kd1l51000109mzf4nss6st --client claude
+```
+
+### Manual Installation
 ```bash
 # Install dependencies
 npm install
